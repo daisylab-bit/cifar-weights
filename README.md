@@ -1,3 +1,3 @@
-# CIFAR Weights
+# HODR Weights
 
-Pretrained models on the CIFAR-10 and CIFAR-100 dataset.
+Pretrained models on the <REDACTED> dataset.
